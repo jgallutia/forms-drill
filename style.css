@@ -1,0 +1,31 @@
+form label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: gray;
+  font-family: arial;
+}
+
+form input[type=text] {
+  color: #000;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+form input[type=text]#zip {
+  width: 51px;
+}
+
+form input[type=email] {
+  color: #000;
+  font-size: 16px;
+  margin-bottom: 20px;	
+}
+
+form textarea {	/* sets the height and width of the text field */
+ height: 6rem;
+ width: 50%;
+ color: #000;
+ font-size: 16px;
+ margin-bottom: 20px;
+
